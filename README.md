@@ -11,8 +11,8 @@ Following are the steps:
     Delete verified outliers.
     Scale the data to fit in a particular range using Maximum Absolute Scaling and MinMax Scaling
 
-Formulas used
-Mean = sum(X) / len(X)
-Median = mid(sorted(X))
-Min Max Scaler x' = (x - min(X)) / (max(X) - min(X))
+Formulas used <br>
+Mean = sum(X) / len(X) <br>
+Median = mid(sorted(X)) <br>
+Min Max Scaler x' = (x - min(X)) / (max(X) - min(X)) <br>
 Max Absolute Scaler is x' = x / max(abs(X))
